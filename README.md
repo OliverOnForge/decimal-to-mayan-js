@@ -1,6 +1,6 @@
 
 
-<img src="doc/assets/head.svg" alt="a decimal number converting to the Mayan system" width="400">
+<img src="doc/assets/head.svg" alt="a decimal number converting to the Mayan system" width="100%">
 
 # Decimal to Mayan Numeral Converter
 
