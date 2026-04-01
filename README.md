@@ -1,4 +1,6 @@
 
+![a decimal number converting to the Mayan system](doc/assets/head.svg)
+
 # Decimal to Mayan Numeral Converter
 
 A lightweight **JavaScript** script that transforms decimal numbers (base 10) into the **vigesimal (base 20)** system used by the Mayan civilization, using a simple text symbols.
