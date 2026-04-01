@@ -1,5 +1,6 @@
 
-![a decimal number converting to the Mayan system](doc/assets/head.svg)
+
+<img src="doc/assets/head.svg" alt="a decimal number converting to the Mayan system" width="400">
 
 # Decimal to Mayan Numeral Converter
 
