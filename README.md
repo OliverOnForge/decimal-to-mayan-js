@@ -41,10 +41,10 @@ For this implementation, the following characters represent the Mayan glyphs:
 
 This script is designed to run directly in the **browser console** or a **Node.js** environment.
 
-1.  Copy the code from the `index.js` file.
-2.  Open your browser's developer tools (F12).
-3.  Paste the code into the **Console** tab and press `Enter`.
-4.  Enter the decimal number when the prompt appears.
+1. Open or execute `main.html` file in your browser. 
+2. Open your browser's developer tools (F12).
+3. Enter the decimal number to convert and press `Enter`.
+4. verify the result in browser's console.
 
 ---
 
